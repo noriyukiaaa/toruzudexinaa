@@ -1,0 +1,23 @@
+{
+  "ver" : 1,
+  "se" : {
+    "34" : {
+      "url" : "https:\/\/your.domain.com\/path\/to\/snd\/res\/ron_f.wav"
+    },
+    "30" : {
+      "url" : "https:\/\/your.domain.com\/path\/to\/snd\/res\/chii_f.wav"
+    },
+    "28" : {
+      "url" : "https:\/\/your.domain.com\/path\/to\/snd\/res\/kan_f.wav"
+    },
+    "36" : {
+      "url" : "https:\/\/your.domain.com\/path\/to\/snd\/res\/tsumo_f.wav"
+    },
+    "32" : {
+      "url" : "https:\/\/your.domain.com\/path\/to\/snd\/res\/reach_f.wav"
+    },
+    "26" : {
+      "url" : "https:\/\/your.domain.com\/path\/to\/snd\/res\/pon_f.wav"
+    }
+  }
+}
